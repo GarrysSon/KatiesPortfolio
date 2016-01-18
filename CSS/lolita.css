@@ -1,0 +1,49 @@
+/* ---------------- ID's ---------------- */
+
+/* Used for the video. */
+#video
+{
+    margin-top: 180px;
+    margin-bottom: 233px;
+}
+
+/* Used for the left, small image. */
+#left-small
+{
+    margin-right: 15px;
+}
+
+/* Used for the middle, small image. */
+#middle-small
+{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+/* Used for the right, small image. */
+#right-small
+{
+    margin-left: 15px;
+}
+
+/* --------------- Classes --------------- */
+
+/* Used for the still images. */
+.still
+{
+    width: 330px;
+    height: 186px;
+}
+
+/* Used for the top row's images. */
+.top-small
+{
+    margin-top: 99px;
+    margin-bottom: 15px;
+}
+
+/* Used for the bottom row's images. */
+.bottom-small
+{
+    margin-top: 15px;
+}

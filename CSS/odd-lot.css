@@ -1,0 +1,84 @@
+/* ---------------- ID's ---------------- */
+
+/* Used for the top image. */
+#top-image
+{
+    width: 1052px;
+    height: 526px;
+    margin-top: 180px;
+    margin-bottom: 112px;
+}
+
+/* Used for the Odd Lot logo. */
+#odd-logo
+{
+    width: 443px;
+    height: 168px;
+    margin-top: 123px;
+    margin-bottom: 90px;
+}
+
+/* Used for the roughnecks image. */
+#roughnecks
+{
+    width: 307px;
+    height: 424px;
+    margin-top: 130px;
+    margin-bottom: 227px;
+}
+
+/* Used for the truckdriver image. */
+#truckdriver
+{
+    width: 1052px;
+    height: 818px;
+    margin-bottom: 172px;
+}
+
+/* Used for the refinery image. */
+#refinery
+{
+    width: 1052px;
+    height: 736px;
+    margin-bottom: 112px;
+}
+
+/* Used for the bottom image. */
+#bottom-image
+{
+    width: 1052px;
+    height: 698px;
+}
+
+/* --------------- Classes --------------- */
+
+/* Used for the large roughnecks image. */
+.large-rough
+{
+    width: 640px;
+    height: 424px;
+    margin-left: 99px;
+    margin-bottom: 5.5px;
+}
+
+/* Used for both small roughneck images. */
+.small-rough
+{
+    width: 314px;
+    height: 196px;
+    margin-top: 5.5px;
+    margin-bottom: 135px;
+}
+
+/* Used for the small, left roughneck image. */
+.small-rough-left
+{
+    margin-left: 99px;
+    margin-right: 5.5px;
+}
+
+/* Used for the small, right roughneck image. */
+.small-rough-right
+{
+    margin-left: 5.5px;
+}

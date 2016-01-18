@@ -1,0 +1,200 @@
+/* ---------------- ID's ---------------- */
+
+/* Used for the top image. */
+#top-image
+{
+    width: 1052px;
+    height: 318px;
+    margin-top: 180px;
+    margin-bottom: 83px;
+}
+
+/* Used for the header text. */
+#header-text
+{
+    margin-top: 0px;
+    margin-bottom: 69px;
+}
+
+/* Used for the sketches image. */
+#sketches
+{
+    width: 1052px;
+    height: 593px;
+    margin-bottom: 92px;
+}
+
+/* Used for the process image. */
+#process
+{
+    width: 1052px;
+    height: 103px;
+    margin-bottom: 218px;
+}
+
+/* Used for the first pedal image. */
+#pedal-one
+{
+    margin-bottom: 171px;
+}
+
+/* Used for the second pedal image. */
+#pedal-two
+{
+    margin-bottom: 182px;
+}
+
+/* Used for the third pedal image. */
+#pedal-three
+{
+    margin-bottom: 177px;
+}
+
+/* Used for the fourth pedal image. */
+#pedal-four
+{
+    margin-bottom: 166px;
+}
+
+/* Used for the pallete image. */
+#palette
+{
+    width: 1052px;
+    height: 58px;
+    margin-bottom: 111px;
+}
+
+/* Used for the map image. */
+#map
+{
+    width: 586px;
+    height: 904px;
+    margin-bottom: 95px;
+}
+
+/* Used for the first cell image. */
+#cell-one
+{
+    width: 207px;
+    height: 420px;
+    margin-left: 166px;
+    margin-bottom: 21px;
+}
+
+/* Used for the second cell image. */
+#cell-two
+{
+    width: 420px;
+    height: 207px;
+    margin-top: 21px;
+    margin-left: 32px;
+    margin-bottom: 136px;
+}
+
+/* Used for the kiosk image. */
+#kiosk
+{
+    width: 655px;
+    height: 730px;
+}
+
+/* Used for the large, top bike. */
+#large-bike-top
+{
+    margin-top: 203px;
+}
+
+/* Used for the small bike image on the left.*/
+#small-bike-left
+{
+    margin-right: 7.5px;
+}
+
+/* Used for the small bike image on the right. */
+#small-bike-right
+{
+    margin-left: 7.5px;
+}
+
+/* Used for the large bike stand image. */
+#large-stand
+{
+    width: 397px;
+    height: 247px;
+    margin-right: 7.5px;
+    margin-bottom: 22px;
+}
+
+/* Used for the stand text. */
+#stand-text
+{
+    margin-top: 0px;
+    margin-left: 7.5px;
+    margin-bottom: 25px;
+    vertical-align: top;
+}
+
+/* Used for the small, left bike stand image. */
+#small-stand-left
+{
+    width: 212px;
+    height: 132px;
+    margin-left: 7.5px;
+    margin-right: 7.5px;
+    margin-bottom: 22px;
+}
+
+/* Used for the small, middle bike stand image. */
+#small-stand-middle
+{
+    width: 192px;
+    height: 132px;
+    margin-top: 115px;
+    margin-left: 7.5px;
+    margin-right: 15px;
+    margin-bottom: 22px;
+    
+}
+
+/* Used for the small, right bike stand image. */
+#small-stand-right
+{
+    width: 192px;
+    height: 132px;
+    margin-top: 115px;
+    margin-left: 15px;
+    margin-bottom: 22px;
+}
+
+/* Used for the mockup image. */
+#mockup
+{
+    width: 1052px;
+    height: 699px;
+}
+
+/* --------------- Classes --------------- */
+
+/* Used for all the pedal images. */
+.pedal-gen
+{
+    width: 318px;
+    height: 108px;
+    margin-left: 364px;
+}
+
+/* Used for the large bike images. */
+.large-bike
+{
+    width: 1052px;
+    height: 700px;
+    margin-bottom: 15px;
+}
+
+/* Used for the small bike images. */
+.small-bike
+{
+    width: 511px;
+    height: 343px;
+    margin-bottom: 160px;
+}

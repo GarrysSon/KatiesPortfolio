@@ -1,0 +1,143 @@
+/* Used for general styling. */
+html
+{
+    background-color: #ededed;
+    overflow-y: scroll;
+}
+
+/* Used for visited links */
+a:visited
+{
+    color: rgb(48, 45, 44);
+}
+
+/* ---------------- ID's ---------------- */
+
+/* Used for syling the entire page. */
+#page
+{
+    width: 100%;
+    height: 100%;
+}
+
+/* Used for centering the table. */
+#center-table
+{
+    border-spacing: 0px;
+    border-collapse: collapse;
+    width: 1067px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 70px;
+}
+
+/* Used for the logo. */
+#logo img
+{
+    width: 96px;
+    height: 154px;
+    margin-top: 196px;
+}
+
+/* Used for the page links. */
+#page-links a
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 10pt;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #4d4d4d;
+    padding-left: 9px;
+    padding-right: 9px;
+    letter-spacing: 1.5px;
+}
+
+#other-links
+{
+    vertical-align: bottom;
+}
+
+/* Used for the links other than the logo. */
+#other-links a
+{
+    float: right;
+}
+
+/* Used for the other links hover state. */
+#other-links a:hover
+{
+    text-decoration: underline;
+}
+
+/* Used for the header text. */
+#header-text
+{
+    text-align: center;
+}
+
+/* Used for the title text. */
+#title-text
+{
+    font-color: #4d4d4d;
+    font-size: 35pt;
+    font-weight: 400;
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+/* --------------- Classes --------------- */
+
+/* Used for nested tables. */
+.inner-table
+{
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+/* Used for the general text. */
+.gen-text
+{
+    font-color: #4d4d4d;
+    font-size: 11pt; 
+    font-family: "Roboto Slab", serif;
+    letter-spacing: 1.25px;
+    line-height: 13pt;
+}
+
+/* Used to align the text to the right. */
+.text-right
+{
+    text-align: right;
+}
+
+/* Used for the bottom links. */
+.bottom-link
+{
+    width: 226px;
+    height: 213px;
+    margin-top: 285px;
+    margin-bottom: 74px;
+}
+
+/* Used for a left link image. */
+.left-link
+{
+    margin-left: auto;
+    margin-right: 23.5px;
+}
+
+/* Used for a middle link image. */
+.middle-link
+{
+    margin-left: 23.5px;
+    margin-right: 23.5px;
+}
+
+/* Used for a right link image. */
+.right-link
+{
+    margin-left: 23.5px;
+    margin-right: auto;
+}

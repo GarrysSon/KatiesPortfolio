@@ -1,0 +1,124 @@
+/* ---------------- ID's ---------------- */
+
+/* Used for the top image. */
+#top-image
+{
+    margin-top: 180px;
+    margin-bottom: 126px;
+}
+
+/* Used for the logo process image. */
+#logo-process
+{
+    margin-top: 152px;
+    margin-left: 229px;
+    margin-bottom: 73px;
+}
+
+/* Used for the final logo image. */
+#final-logo
+{
+    margin-left: 361px;
+    margin-bottom: 102px;
+}
+
+/* Used for the color palette image. */
+#palette
+{
+    margin-left: 225px;
+    margin-bottom: 119px;
+}
+
+/* Used for the small, top image. */
+#top-small
+{
+    margin-bottom: 7.5px;
+}
+
+/* Used for the small, middle image. */
+#middle-small
+{
+    margin-bottom: 7.5px;
+    margin-top: 7.5px;
+}
+
+/* Used for the small, bottom image. */
+#bottom-small
+{
+    margin-top: 7.5px;
+    margin-bottom: 12px;
+}
+
+/* Used for all the to-go bag image. */
+#togo-bag
+{
+    width: 348px;
+    height: 280px;
+    margin-right: 23px;
+}
+
+/* Used for the interior image. */
+#interior
+{
+    width: 654px;
+    height: 976px;
+    margin-left: 23px;
+    margin-bottom: 12px;
+}
+
+/* Used for the foodtruck image. */
+#foodtruck
+{
+    width: 1052px;
+    height: 635px;
+    margin-bottom: 22px;
+}
+
+/* Used for the first ad. */
+#ad-one
+{
+    width: 378px;
+    height: 504px;
+}
+
+/* Used for the second ad. */
+#ad-two
+{
+    width: 667px;
+    height: 504px;
+}
+
+/* Used for the poster text. */
+#poster-text
+{
+    text-align: right;
+    margin-top: 48px;
+    margin-right: 20px;
+    margin-bottom: 775px;
+}
+
+/* Used for the first poster. */
+#first-poster
+{
+    margin-top: 48px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+/* --------------- Classes --------------- */
+
+/* Used for all the menu images. */
+.menu
+{
+    width: 346px;
+    height: 216px;
+    margin-right: 23px;
+}
+
+/* Used for the posters. */
+.poster
+{
+    width: 628px;
+    height: 947px;
+    margin-left: 255px;
+}

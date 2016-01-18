@@ -1,0 +1,104 @@
+/* ---------------- ID's ---------------- */
+
+/* Used for the top images. */
+#top-img
+{
+    margin-top: 180px;
+}
+
+/* Used for the large image. */
+#large-img
+{
+    width: 700px;
+    height: 659px;
+    margin-top: 180px;
+    margin-right: 17.5px;
+    margin-bottom: 17.5px;
+}
+
+/* Used for the bottom contact section. */
+#contact-bar
+{
+    width: auto;
+    height: 66px;
+    background-color: #302d2c;
+    margin-top: 144.5px;
+}
+
+/* Used for the contact buttons */
+#contact-buttons
+{
+    width: 1035px;
+    height: 35px;
+    margin: auto;
+}
+
+/* --------------- Classes --------------- */
+
+/* Used for small images on the left. */
+.small-img-left
+{
+    width: 332px;
+    height: 312px;
+    margin-top: 17.5px;
+    margin-right: 17.5px;
+    margin-bottom: 17.5px;
+}
+
+/* Used for small images in the center. */
+.small-img-center
+{
+    width: 332px;
+    height: 312px;
+    margin: 17.5px;
+}
+
+/* Used for small images on the right. */
+.small-img-right
+{
+    width: 332px;
+    height: 312px;
+    margin-top: 17.5px;
+    margin-left: 17.5px;
+    margin-bottom: 17.5px;
+}
+
+/* Used for the right contact image. */
+.contact-img-right
+{
+    /* TEMP */
+    background-color: aqua;
+    
+    float: right;
+    width: 35px;
+    height: 35px;
+    margin-top: 15.5px;
+    margin-right: 17.5px;
+}
+
+/* Used for the right contact image. */
+.contact-img-center
+{
+    /* TEMP */
+    background-color: aqua;
+    
+    float: right;
+    width: 35px;
+    height: 35px;
+    margin-top: 15.5px;
+    margin-right: 17.5px;
+    margin-left: 17.5px;
+}
+
+/* Used for the right contact image. */
+.contact-img-left
+{
+    /* TEMP */
+    background-color: aqua;
+    
+    float: right;
+    width: 35px;
+    height: 35px;
+    margin-top: 15.5px;
+    margin-left: 17.5px;
+}
