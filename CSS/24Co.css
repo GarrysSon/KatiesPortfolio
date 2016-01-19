@@ -1,7 +1,160 @@
 /* ---------------- ID's ---------------- */
 
+/* Used for the top image. */
+#top-image
+{
+    width: 1052px;
+    height: 526px;
+    margin-top: 180px;
+    margin-bottom: 56px;
+}
 
+/* Used for the logo process image. */
+#logo-process
+{
+    width: 1052px;
+    height: 332px;
+    margin-top: 56px;
+    margin-bottom: 58px;
+}
+
+/* Used for the leather image. */
+#leather
+{
+    width: 1052px;
+    height: 763px;
+    margin-bottom: 16px;
+}
+
+/* Used for the first model image. */
+#model-one
+{
+    width: 331px;
+    margin-right: 3px;
+}
+
+/* Used for the second model image. */
+#model-two
+{
+    width: 445px;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+
+/* Used for the third model image. */
+#model-three
+{
+    width: 275px;
+    margin-left: 3px;
+}
+
+/* Used for the pattern image. */
+#pattern
+{
+    width: 469px;
+    height: 531px;
+    margin-right: 21px;
+    margin-bottom: 7px;
+}
+
+/* Used for the first building image. */
+#building-one
+{
+    width: 561px;
+    height: 547px;
+    margin-bottom: 7px;
+}
+
+/* Used for the second building image. */
+#building-two
+{
+    width: 469px;
+    height: 407px;
+    margin-right: 21px;
+    margin-bottom: 26px;
+}
+
+/* Used for the linework text. */
+#linework-text
+{
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 55px;
+}
+
+/* Used for the coins image. */
+#coins
+{
+    width: 557px;
+    height: 257px;
+}
+
+/* Used for the third building */
+#building-three
+{
+    width: 471px;
+    height: 694px;
+    margin-right: 21px;
+    margin-bottom: 78px;
+}
+
+/* Used for the purse and lines table. */
+#purse-lines-table
+{
+    margin-bottom: 78px
+}
+
+/* Used for the inside of purse image. */
+#inner-purse
+{
+    width: 560px;
+    height: 381px;
+}
+
+/* Used for the lines image. */
+#lines
+{
+    width: 560px;
+    height: 291px;
+    margin-bottom: 13px;
+}
+
+/* Used for the purse image. */
+#purse
+{
+    width: 1052px;
+    height: 574px;
+    margin-bottom: 15px;
+}
+
+/* Used for the first wall image. */
+#wall-one
+{
+    width: 457px;
+    height: 687px;
+    margin-right: 19px;
+}
+
+/* Used for the second wall image. */
+#wall-two
+{
+    width: 573px;
+    height: 380px;
+    margin-bottom: 18px;
+}
+
+/* Used for the wallets image. */
+#wallets
+{
+    width: 573px;
+    height: 286px;
+}
 
 /* --------------- Classes --------------- */
 
-
+/* Used for all the model images. */
+.model
+{
+    height: 416px;
+    margin-bottom: 153px;
+}
