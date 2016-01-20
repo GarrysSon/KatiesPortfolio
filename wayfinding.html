@@ -11,7 +11,7 @@
     
     <body>
         <div id="page">
-            <table id="center-table">
+            <table id="center-table" border="2">
                 <!-- Top page links. -->
                 <tr id="page-links">
                     <!-- Logo/Work link -->
@@ -30,23 +30,23 @@
                 <!-- Post it, Sign pinup, sketch, 3D sign, and printing sign -->
                 <tr>
                     <td colspan="2">
-                        <table class="inner-table">
+                        <table id="first-table" class="inner-table">
                             <tr>
                                 <td>
-                                    <img src="./Resources/Images/Wayfinding/post_its.png" alt="">
+                                    <img src="./Resources/Images/Wayfinding/post_its.png" alt="" id="post-it">
                                 </td>
                                 <td>
                                     <table class="inner-table">
                                         <tr>
                                             <td>
-                                                <img src="./Resources/Images/Wayfinding/sign_pinup.png" alt="">
-                                                <img src="./Resources/Images/Wayfinding/sketches.png" alt="">
+                                                <img src="./Resources/Images/Wayfinding/sign_pinup.png" alt="" id="sign-pinup">
+                                                <img src="./Resources/Images/Wayfinding/sketches.png" alt="" id="sketch">
                                             </td>
                                         </tr>
                                         <tr>
                                             <td>
-                                                <img src="./Resources/Images/Wayfinding/3D_sign.png" alt="">
-                                                <img src="./Resources/Images/Wayfinding/printing_sign.png" alt="">
+                                                <img src="./Resources/Images/Wayfinding/3D_sign.png" alt="" id="3d-sign">
+                                                <img src="./Resources/Images/Wayfinding/printing_sign.png" alt="" id="printing-sign">
                                             </td>
                                         </tr>
                                     </table>
@@ -65,11 +65,15 @@
                 
                 <!-- Map shapes and description text -->
                 <tr>
-                    <td>
-                        <img src="./Resources/Images/Wayfinding/map_shapes.png" alt="">
-                    </td>
-                    <td>
-                        <p><tag class="gen-text"><b>Shapes</b> that connect &amp; combine<br>into one main shape, each<br>representing a certain<br>floor in collaboration with<br>all majors of the art school.</tag></p>
+                    <td colspan="2">
+                        <table>
+                            <td>
+                                <img src="./Resources/Images/Wayfinding/map_shapes.png" alt="" id="map-shapes">
+                            </td>
+                            <td>
+                                <p id="shapes-desc"><tag class="gen-text"><b>Shapes</b> that connect &amp; combine<br>into one main shape, each<br>representing a certain<br>floor in collaboration with<br>all majors of the art school.</tag></p>
+                            </td>
+                        </table>
                     </td>
                 </tr>
                 
@@ -95,7 +99,7 @@
                 </tr>
                 
                 <!-- Glass door and description -->
-                <tr>
+<!--                <tr>
                     <td colspan="2">
                         <table class="inner-table">
                             <td>
@@ -106,38 +110,44 @@
                             </td>
                         </table>
                     </td>
-                </tr>
+                </tr>-->
                 
                 <!-- Info sign, Sign making, Gender neutral, Women, Men, Directional sign, and the Icons -->
                 <tr>
-                    <td>
+                    <td colspan="2">
                         <table class="inner-table">
                             <tr>
-                                <td colspan="2">
-                                    <img src="./Resources/Images/Wayfinding/info_sign.png" alt="">
-                                </td>
-                            </tr>
-                            <tr>
                                 <td>
-                                    <img src="./Resources/Images/Wayfinding/gender_neutral.png" alt="">
+                                    <table class="inner-table">
+                                        <tr>
+                                            <td colspan="2">
+                                                <img src="./Resources/Images/Wayfinding/info_sign.png" alt="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <img src="./Resources/Images/Wayfinding/gender_neutral.png" alt="">
+                                            </td>
+                                            <td>
+                                                <img src="./Resources/Images/Wayfinding/women.png" alt="">
+                                                <br>
+                                                <img src="./Resources/Images/Wayfinding/men.png" alt="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="2">
+                                                <img src="./Resources/Images/Wayfinding/directional_sign.png" alt="">
+                                            </td>
+                                        </tr>
+                                    </table>
                                 </td>
                                 <td>
-                                    <img src="./Resources/Images/Wayfinding/women.png" alt="">
-                                    <br>
-                                    <img src="./Resources/Images/Wayfinding/men.png" alt="">
+                                    <img src="./Resources/Images/Wayfinding/making_sign.png" alt="">
+                                    <img src="./Resources/Images/Wayfinding/icons.png" alt="">
                                 </td>
-                            </tr>
-                            <tr>
-                                <td colspan="2">
-                                    <img src="./Resources/Images/Wayfinding/directional_sign.png" alt="">
                                 </td>
                             </tr>
                         </table>
-                    </td>
-                    <td>
-                        <img src="./Resources/Images/Wayfinding/making_sign.png" alt="">
-                        <br>
-                        <img src="./Resources/Images/Wayfinding/icons.png" alt="">
                     </td>
                 </tr>
                 
@@ -150,25 +160,35 @@
                 
                 <!-- Digital screen and info text -->
                 <tr>
-                    <td>
-                        <img src="./Resources/Images/Wayfinding/digital_screen.png" alt="">
-                    </td>
-                    <td>
-                        <p><tag class="gen-text"><b>Interactive</b> touch screens<br>placed in the lobby show<br>class &amp; faculty directories<br>as well as room availability.</tag></p>
+                    <td colspan="2">
+                        <table class="inner-table">
+                            <td>
+                                <img src="./Resources/Images/Wayfinding/digital_screen.png" alt="">
+                            </td>
+                            <td>
+                                <p><tag class="gen-text"><b>Interactive</b> touch screens<br>placed in the lobby show<br>class &amp; faculty directories<br>as well as room availability.</tag></p>
+                            </td>
+                        </table>
                     </td>
                 </tr>
                 
                 <!-- Stairs and elevator -->
                 <tr>
-                    <td>
-                        <img src="./Resources/Images/Wayfinding/stairs1.png" alt="">
-                    </td>
-                    <td>
+                    <td colspan="2">
                         <table class="inner-table">
                             <tr>
                                 <td>
-                                    <img src="./Resources/Images/Wayfinding/stairs2.png" alt="">
-                                    <img src="./Resources/Images/Wayfinding/elevator.png" alt="">
+                                    <img src="./Resources/Images/Wayfinding/stairs1.png" alt="">
+                                </td>
+                                <td>
+                                    <table class="inner-table">
+                                        <tr>
+                                            <td>
+                                                <img src="./Resources/Images/Wayfinding/stairs2.png" alt="">
+                                                <img src="./Resources/Images/Wayfinding/elevator.png" alt="">
+                                            </td>
+                                        </tr>
+                                    </table>
                                 </td>
                             </tr>
                         </table>
@@ -184,12 +204,12 @@
                         <table class="inner-table">
                             <tr>
                                 <td>
-                                    <img src="./Resources/Images/Wayfinding/front_sign.mov" alt="">
+                                    <video controls="controls" name="Front Sign" src="./Resources/Images/Wayfinding/front_sign.mov" class="sculpture-video"></video>
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    <img src="./Resources/Images/Wayfinding/3D_sculpture.mov" alt="">
+                                    <video controls="controls" name="3D Sculpture" src="./Resources/Images/Wayfinding/3D_sculpture.mov" class="sculpture-video"></video>
                                 </td>
                             </tr>
                         </table>

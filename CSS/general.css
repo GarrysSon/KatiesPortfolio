@@ -47,7 +47,7 @@ a:visited
     font-weight: 300;
     text-transform: uppercase;
     text-decoration: none;
-    color: #4d4d4d;
+    color: rgb(48, 45, 44);
     padding-left: 9px;
     padding-right: 9px;
     letter-spacing: 1.5px;
@@ -79,7 +79,7 @@ a:visited
 /* Used for the title text. */
 #title-text
 {
-    font-color: #4d4d4d;
+    font-color: rgb(66, 66, 66);
     font-size: 35pt;
     font-weight: 400;
     font-family: "Oswald", sans-serif;
@@ -99,7 +99,7 @@ a:visited
 /* Used for the general text. */
 .gen-text
 {
-    font-color: #4d4d4d;
+    font-color: rgb(66, 66, 66);
     font-size: 11pt; 
     font-family: "Roboto Slab", serif;
     letter-spacing: 1.25px;

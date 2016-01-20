@@ -1,7 +1,73 @@
 /* ---------------- ID's ---------------- */
 
+/* Used for the post-it image. */
+#post-it
+{
+    width: 367px;
+    height: 450px;
+    margin-right: 22px;
+    margin-bottom: 99px;
+}
 
+/*  Used for the sign pinup image. */
+#sign-pinup
+{
+    width: 326px;
+    height: 249px;
+    margin-right: 22px;
+    margin-bottom: 22px;
+}
+
+/* Used for the sketch image. */
+#sketch
+{
+    width: 308px;
+    height: 251px;
+    margin-bottom: 22px;
+}
+
+/* Used for the 3D sign image. */
+#3d-sign
+{
+    width: 350px;
+    height: 278px;
+    margin-right: 22px;
+}
+
+/* Used for the printing sign image. */
+#printing-sign
+{
+    width: 286px;
+    height: 183px;
+    margin-bottom: 93px;
+}
+
+/* Used for the first table. */
+#first-table
+{
+    margin-top: 180px;
+    margin-bottom: 113px;
+}
+
+/* Used for the map shapes image. */
+#map-shapes
+{
+    width: ;
+    height: ;
+    margin: ;
+}
+
+/* Used for the shapes description text. */
+#shapes-desc
+{
+    width: auto;
+    height: auto;
+}
 
 /* --------------- Classes --------------- */
 
-
+.sculpture-video
+{
+    width: 447px;
+    height: 280px;
+}
