@@ -31,7 +31,6 @@
 {
     width: 350px;
     height: 278px;
-    margin-right: 22px;
 }
 
 /* Used for the printing sign image. */
@@ -39,6 +38,7 @@
 {
     width: 286px;
     height: 183px;
+    margin-left: 22px;
     margin-bottom: 93px;
 }
 
@@ -52,16 +52,32 @@
 /* Used for the map shapes image. */
 #map-shapes
 {
-    width: ;
-    height: ;
-    margin: ;
+    width: 560px;
+    height: 369px;
+    margin: 113px 29px 87px 134px;
 }
 
 /* Used for the shapes description text. */
 #shapes-desc
 {
-    width: auto;
-    height: auto;
+    margin-top: 95px;
+}
+
+/* Used for the lobby sign image. */
+#lobby-sign
+{
+    width: 1052px;
+    height: 633px;
+    margin-bottom: 59px;
+}
+
+/* Used for the sign shapes image. */
+#sign-shapes
+{
+    width: 1052px;
+    height: 107px;
+    margin-top: 57px;
+    margin-bottom: 147px;
 }
 
 /* --------------- Classes --------------- */
