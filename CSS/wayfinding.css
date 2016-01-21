@@ -80,10 +80,169 @@
     margin-bottom: 147px;
 }
 
+/* Used for the silhouette image. */
+#silhouette
+{
+    width: 189px;
+    height: 466px;
+    margin-left: 10px;
+    margin-right: 29px;
+    margin-bottom: 130px;
+}
+
+/* Used for the door image. */
+#door
+{
+    width: 365px;
+    height: 599px;
+    margin-right: 45px;
+    margin-bottom: 130px;
+}
+
+/* Used for the door sign image */
+#door-sign
+{
+    width: 176px;
+    height: 70px;
+    margin-top: 150px;
+    margin-bottom: 250px;
+}
+
+/* Used for the door text. */
+#door-text
+{
+    margin-bottom: 185px;
+}
+
+/* Used for the info sign image. */
+#info-sign
+{
+    margin-bottom: 49px;
+}
+
+/* Used for the gender neutral image. */
+#gender-neutral
+{
+    margin-right: 26px;
+    margin-bottom: 88px;
+}
+
+/* Used for the women sign image. */
+#women-sign
+{
+    margin-right: 57px;
+    margin-bottom: 12px;
+}
+
+/* Used for the men sign image. */
+#mens-sign
+{
+    margin-right: 57px;
+    margin-bottom: 88px
+}
+
+/* Used for the directional sign image. */
+#directional-sign
+{
+    margin-bottom: 224px;
+}
+
+/* Used for the sign making image. */
+#making-sign
+{
+    width: 583px;
+    height: 389px;
+    margin-bottom: 46px
+}
+
+/* Used for the icons image. */
+#icons
+{
+    width: 582px;
+    height: 96px;
+    margin-bottom: 224px;
+}
+
+/* Used for the TV screen image. */
+#tv-screen
+{
+    width: 1052px;
+    height: 763px;
+    margin-bottom: 27px;
+}
+
+/* Used for the digital screen image. */
+#digital-screen
+{
+    margin-right: 38px;
+    margin-bottom: 56px;
+}
+
+/* Used for the screen text. */
+#screen-text
+{
+    margin-bottom: 256px;
+}
+
+/* Used for the first stairs image. */
+#stairs-one
+{
+    width: 521px;
+    height: 691px;
+    margin-bottom: 91px;
+}
+
+/* Used for the second stairs image. */
+#stairs-two
+{
+    
+}
+
+/* Used for the elevator image. */
+#elevator
+{
+    width: 527px;
+    height: 298px;
+    margin-bottom: 91px;
+}
+
+/* Used for the school sign image. */
+#school-sign
+{
+    width: 545px;
+    height: 587px;
+    margin-right: 51px;
+    margin-bottom: 17px;
+}
+
+/* Used for the in-software image. */
+#in-software
+{
+    width: 453px;
+    height: 590px;
+    margin-bottom: 17px;
+}
+
+/* Used for the sculpture image. */
+#sculpture
+{
+    width: 1052px;
+    height: 600px;
+}
+
 /* --------------- Classes --------------- */
 
+/* Used for the sculpture videos. */
 .sculpture-video
 {
     width: 447px;
     height: 280px;
 }
+
+/* Used for the large sign images. */
+.large-sign
+{
+    width: 329px;
+    height: 135px;
+}
+
