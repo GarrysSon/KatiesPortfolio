@@ -1,7 +1,100 @@
 /* ---------------- ID's ---------------- */
 
+#top-image
+{
+    width: 1052px;
+    height: 443px;
+    margin-top: 180px;
+    margin-bottom: 125px;
+}
 
+/* Used for the first image. */
+#image-one
+{
+    margin: 125px 161px 19px 68px;
+}
+
+/* Used for the third image. */
+#image-three
+{
+    width: 231px;
+    height: 231px;
+    margin: 125px 0px 19px 0px;
+}
+
+/* Used for the second image. */
+#image-two
+{
+    margin: 0px 77px 142px 126px;
+}
+
+/* Used for the fourth image. */
+#image-four
+{
+    width: 284px;
+    height: 208px;
+    margin: 0px 0px 145px 0px;
+}
+
+/* Used for the seventh image. */
+#image-seven
+{
+    margin: 126px 108px 22px 67px;
+}
+
+/* Used for the eighth image. */
+#image-eight
+{
+    width: 213px;
+    height: 208px;
+    margin: 126px 0px 22px 0px;
+}
+
+/* Used for the ninth image. */
+#image-nine
+{
+    margin: 0px 85px 204px 137px;
+}
+
+/* Used for the tenth image. */
+#image-ten
+{
+    width: 284px;
+    height: 208px;
+    margin: 0px 0px 204px 0px;
+}
+
+/* Used for the front of the VIP ticket image. */
+#vip-front
+{
+    margin: 0px 70px 308px 165px;
+}
+
+/* Used for the back of the VIP ticket image. */
+#vip-back
+{
+    margin: 214px 186px 94px 0px;
+}
 
 /* --------------- Classes --------------- */
 
+/* Used for the ticket images. */
+.ticket
+{
+    width: 506px;
+    height: 209px;
+}
 
+/* Used for large images. */
+.large-image
+{
+    width: 1052px;
+    height: 697px;
+}
+
+/* Used for the vertical ticket images. */
+vertical-ticket
+{
+    width: 316px;
+    height: 734px;
+}
