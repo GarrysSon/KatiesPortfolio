@@ -105,6 +105,19 @@
     margin-bottom: 5px;
 }
 
+/* Used for the second poster. */
+#second-poster
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/* Used for the third poster. */
+#third-poster
+{
+    margin-top: 5px;
+}
+
 /* --------------- Classes --------------- */
 
 /* Used for all the menu images. */
