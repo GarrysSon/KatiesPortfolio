@@ -1,7 +1,58 @@
 /* ---------------- ID's ---------------- */
 
+/* Used for the picture of Katie. */
+#about-me
+{
+    margin: 180px 0px 139px 0px;
+}
 
+/* Used for the intro text. */
+#intro-text
+{
+    margin: 0px 0px 22px 0px;
+}
 
-/* --------------- Classes --------------- */
+/* Used for the about me text. */
+#about-me-text
+{
+    margin: 0px;
+}
 
+/* Used for the education text. */
+#education-text
+{
+    font-color: rgb(66, 66, 66);
+    font-size: 8pt; 
+    font-family: "Roboto Slab", serif;
+    letter-spacing: 1.25px;
+    line-height: 13pt;
+    margin: 5px 0px 0px 0px;
+}
 
+/* Used for the closing text. */
+#closing-text
+{
+    margin: 82px 0px 0px 0px;
+}
+
+/* Used for the contact buttons. */
+#contact-buttons
+{
+    margin-bottom: 30px;
+}
+
+/* Used for the mail image. */
+#mail
+{
+    width: 25px;
+    height: 18px;
+    margin: 10px 10px 0px 0px;
+}
+
+/* Used for the Linked In image. */
+#linked-in
+{
+    width: 22px;
+    height: 22px;
+    margin: 10px 0px 0px 0px;
+}
