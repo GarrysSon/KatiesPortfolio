@@ -14,6 +14,13 @@
     margin-top: 180px;
     margin-right: 17.5px;
     margin-bottom: 17.5px;
+    opacity: 0.7;
+}
+
+/* Used for the large image on hover. */
+#large-img:hover
+{
+    opacity: 1;
 }
 
 /* Used for the bottom contact section. */
@@ -56,11 +63,23 @@
 
 /* --------------- Classes --------------- */
 
-/* Used for small images on the left. */
-.small-img-left
+/* Used for the small images. */
+.small-img
 {
     width: 332px;
     height: 312px;
+    opacity: 0.7;
+}
+
+/* Used for the small images on hover. */
+.small-img:hover
+{
+    opacity: 1;
+}
+
+/* Used for small images on the left. */
+.small-img-left
+{
     margin-top: 17.5px;
     margin-right: 17.5px;
     margin-bottom: 17.5px;
@@ -69,16 +88,12 @@
 /* Used for small images in the center. */
 .small-img-center
 {
-    width: 332px;
-    height: 312px;
     margin: 17.5px;
 }
 
 /* Used for small images on the right. */
 .small-img-right
 {
-    width: 332px;
-    height: 312px;
     margin-top: 17.5px;
     margin-left: 17.5px;
     margin-bottom: 17.5px;

@@ -79,7 +79,7 @@ a:visited
 /* Used for the title text. */
 #title-text
 {
-    font-color: rgb(66, 66, 66);
+    color: rgb(100, 100, 100);
     font-size: 35pt;
     font-weight: 400;
     font-family: "Oswald", sans-serif;
@@ -99,7 +99,7 @@ a:visited
 /* Used for the general text. */
 .gen-text
 {
-    font-color: rgb(66, 66, 66);
+    color: rgb(100, 100, 100);
     font-size: 11pt; 
     font-family: "Roboto Slab", serif;
     letter-spacing: 1.25px;
@@ -118,7 +118,6 @@ a:visited
     width: 226px;
     height: 213px;
     margin-top: 285px;
-    margin-bottom: 74px;
 }
 
 /* Used for a left link image. */
@@ -140,4 +139,17 @@ a:visited
 {
     margin-left: 23.5px;
     margin-right: auto;
+}
+
+.bottom-link-text
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 8pt;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 1.5px;
+    margin-top: 0px;
+    margin-bottom: 74px;
+    color: rgb(122, 122, 122);
 }
