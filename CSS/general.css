@@ -73,12 +73,6 @@ a:visited
     float: right;
 }
 
-/* Used for the other links hover state. */
-#other-links a:hover
-{
-    text-decoration: underline;
-}
-
 /* Used for the header text. */
 #header-text
 {
