@@ -4,6 +4,7 @@
 #top-img
 {
     margin-top: 180px;
+    overflow-y: scroll;
 }
 
 /* Used for the large image. */
