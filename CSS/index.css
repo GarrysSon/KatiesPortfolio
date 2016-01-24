@@ -19,7 +19,8 @@
 /* Used for the bottom contact section. */
 #contact-bar
 {
-    width: auto;
+    min-width: 1067px;
+    width: 100%;
     height: 66px;
     background-color: #302d2c;
     margin-top: 144.5px;
