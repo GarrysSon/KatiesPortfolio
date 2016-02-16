@@ -27,6 +27,62 @@
     margin-right: 73px;
 }
 
+/* Used for the first phone image. */
+#first-phone
+{
+    margin-top: 233px;
+    margin-right: 72px;
+    margin-bottom: 43px;
+}
+
+/* Used for the second phone image. */
+#second-phone
+{
+    margin: 298px 91px 77px 85px;
+}
+
+/* Used for the third phone image. */
+#third-phone
+{
+    margin: 185px 58px 0px 0px;
+}
+
+/* Used for the fourth phone image. */
+#fourth-phone
+{
+    margin: 298px 85px 77px 0px;
+}
+
+/* Used for the fifth phone image. */
+#fifth-phone
+{
+    margin: 27px 78px 0px 50px;
+}
+
+/* Used for the sixth phone image. */
+#sixth-phone
+{
+    margin: 146px 67px 121px 0px;
+}
+
+/* Used for the seventh phone image. */
+#seventh-phone
+{
+    margin: 27px 50px 0px 0px;
+}
+
+/* Used for the eigth phone image. */
+#eigth-phone
+{
+    margin: 77px 27px 185px 130px;
+}
+
+/* Used for the ninth phone image. */
+#ninth-phone
+{
+    margin: 77px 130px 185px 0px;
+}
+
 /* --------------- Classes --------------- */
 
 /* Used for the large phone images. */
@@ -61,5 +117,5 @@
 .small-phone
 {
     width: 184px;
-    height: 419px;
+    height: 389px;
 }
