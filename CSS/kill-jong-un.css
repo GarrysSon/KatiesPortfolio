@@ -1,0 +1,65 @@
+/* ---------------- ID's ---------------- */
+
+/* Used for the top image. */
+#top-image
+{
+    width: 1052px;
+    height: 699px;
+    margin-top: 180px;
+    margin-bottom: 131px;
+}
+
+/* Used for the first wireframe image. */
+#wireframe-1
+{
+    width: 615px;
+    height: 346px;
+    margin-top: 134px;
+    margin-right: 73px;
+    margin-bottom: 9px;
+}
+
+/* Used for the second wireframe image. */
+#wireframe-2
+{
+    width: 615px;
+    height: 391px;
+    margin-right: 73px;
+}
+
+/* --------------- Classes --------------- */
+
+/* Used for the large phone images. */
+.large-phone
+{
+    width: 382px;
+    height: 750px;
+}
+
+/* Used for the medium/large phone images. */
+.medium-large-phone
+{
+    width: 311px;
+    height: 629px;
+}
+
+/* Used for the medium phone images. */
+.medium-phone
+{
+    width: 288px;
+    height: 604px;
+}
+
+/* Used for the small/medium phone images. */
+.small-medium-phone
+{
+    width: 210px;
+    height: 439px;
+}
+
+/* Used for the small phone images. */
+.small-phone
+{
+    width: 184px;
+    height: 419px;
+}
