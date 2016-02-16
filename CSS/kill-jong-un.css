@@ -30,9 +30,7 @@
 /* Used for the first phone image. */
 #first-phone
 {
-    margin-top: 233px;
-    margin-right: 72px;
-    margin-bottom: 43px;
+    margin: 233px 72px 43px 0px;
 }
 
 /* Used for the second phone image. */
